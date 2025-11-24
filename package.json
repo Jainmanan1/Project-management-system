@@ -1,0 +1,20 @@
+{
+  "name": "section-21",
+  "version": "1.0.0",
+  "description": "Project Manangement System",
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "license": "ISC",
+  "author": "Manan jain",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
